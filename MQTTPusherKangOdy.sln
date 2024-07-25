@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTPusherKangOdy", "MQTTPusherKangOdy\MQTTPusherKangOdy.csproj", "{1C055D82-9992-4B40-A125-CC5DD1AF5068}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MQTT-Tester", "MQTT-Tester\MQTT-Tester.vdproj", "{59A5B6DC-F147-4B77-9596-A1956020902E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C055D82-9992-4B40-A125-CC5DD1AF5068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C055D82-9992-4B40-A125-CC5DD1AF5068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C055D82-9992-4B40-A125-CC5DD1AF5068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C055D82-9992-4B40-A125-CC5DD1AF5068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A5B6DC-F147-4B77-9596-A1956020902E}.Debug|Any CPU.ActiveCfg = Debug
+		{59A5B6DC-F147-4B77-9596-A1956020902E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3577D0EE-9097-4DE1-AFE4-E18FBBFC72B9}
+	EndGlobalSection
+EndGlobal

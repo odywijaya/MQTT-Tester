@@ -1,0 +1,13 @@
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.csproj.AssemblyReference.cache
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.Form1.resources
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.Properties.Resources.resources
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.csproj.GenerateResource.cache
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.csproj.CoreCompileInputs.cache
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\bin\Debug\MQTTPusherKangOdy.exe.config
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\bin\Debug\MQTTPusherKangOdy.exe
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\bin\Debug\MQTTPusherKangOdy.pdb
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\bin\Debug\M2Mqtt.Net.dll
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPush.DC178206.Up2Date
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.exe
+C:\Users\odyoc\Documents\project\MQTTPusher\MQTTPusherKangOdy\MQTTPusherKangOdy\obj\Debug\MQTTPusherKangOdy.pdb

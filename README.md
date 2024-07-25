@@ -1,5 +1,6 @@
 ﻿# MQTT-Tester
-Aplikasi Testing untuk Broker MQTT, dengan menggunakan bahasa C#.
+Just simple Apps for testing broker MQTT server,
+Make using C#.NET.
 
 # REQUIREMENT:
 - .NET4
